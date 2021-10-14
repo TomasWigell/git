@@ -6,6 +6,5 @@ public class Main {
 	// write your code here
         String s = "Detta är vårt första git projekt";
         System.out.println(s);
-        ///kommentarer
     }
 }
