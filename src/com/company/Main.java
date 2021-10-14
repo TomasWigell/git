@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         String s = "Detta är vårt första git projekt";
         System.out.println(s);
+        String t = "Detta är Wigells branch";
+        System.out.println(t);
     }
 }
